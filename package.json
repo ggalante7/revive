@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-revive",
+  "version": "1.0.0",
+  "description": "infraestructure revive service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "author": "Gabriel Greche Marim Galante",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.960.0",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
